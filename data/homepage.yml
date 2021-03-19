@@ -1,6 +1,6 @@
 ############################ banner ##########################
 banner:
-  enable : true
+  enable: true
   title : "Taiga" melegítő krém az ízületek számára"
   content : "A melegítő krém enyhe termoaktív hatású, intenzív égés nélkül."
   image : "images/banner.png"
